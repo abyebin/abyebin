@@ -1,7 +1,7 @@
 function catAndMouse(x, y, z) {
     
     let psA = 0;
-    let psB = 100;
+    let psB = 90;
   
     if (x > z){
       psA = x - z;
