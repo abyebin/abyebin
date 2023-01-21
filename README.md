@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 🤝 I’m looking for help with **Java Script/HTML/CSS**
+- 🤝 I’m looking for help with **** Things I dont know.
 
-- 💬 Ask me about **Computers and Mobile Phones**
+- 💬 Ask me about **Anything I know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
