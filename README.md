@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **ebinaliyas5@gmail.com**
 
-- ⚡ Fun fact ** I forget people's faces easily **
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
